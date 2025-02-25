@@ -12,8 +12,5 @@ This project trains character-level language models to generate names in English
 
 ## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUserName/second-assignment-NoahKraler.git
-   cd second-assignment-NoahKraler
+pip install -r requirements.txt
 
